@@ -1,0 +1,11 @@
+{
+  "name": "food-pedia",
+  "version": "1.0.0",
+  "description": "Food Pedia adalah Aplikasi Mesin pencari nama makanan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
